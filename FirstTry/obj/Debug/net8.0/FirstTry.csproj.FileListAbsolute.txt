@@ -1,0 +1,15 @@
+C:\Users\Eberle\Desktop\CSharp\FirstTry\bin\Debug\net8.0\FirstTry.exe
+C:\Users\Eberle\Desktop\CSharp\FirstTry\bin\Debug\net8.0\FirstTry.deps.json
+C:\Users\Eberle\Desktop\CSharp\FirstTry\bin\Debug\net8.0\FirstTry.runtimeconfig.json
+C:\Users\Eberle\Desktop\CSharp\FirstTry\bin\Debug\net8.0\FirstTry.dll
+C:\Users\Eberle\Desktop\CSharp\FirstTry\bin\Debug\net8.0\FirstTry.pdb
+C:\Users\Eberle\Desktop\CSharp\FirstTry\obj\Debug\net8.0\FirstTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eberle\Desktop\CSharp\FirstTry\obj\Debug\net8.0\FirstTry.AssemblyInfoInputs.cache
+C:\Users\Eberle\Desktop\CSharp\FirstTry\obj\Debug\net8.0\FirstTry.AssemblyInfo.cs
+C:\Users\Eberle\Desktop\CSharp\FirstTry\obj\Debug\net8.0\FirstTry.csproj.CoreCompileInputs.cache
+C:\Users\Eberle\Desktop\CSharp\FirstTry\obj\Debug\net8.0\FirstTry.sourcelink.json
+C:\Users\Eberle\Desktop\CSharp\FirstTry\obj\Debug\net8.0\FirstTry.dll
+C:\Users\Eberle\Desktop\CSharp\FirstTry\obj\Debug\net8.0\refint\FirstTry.dll
+C:\Users\Eberle\Desktop\CSharp\FirstTry\obj\Debug\net8.0\FirstTry.pdb
+C:\Users\Eberle\Desktop\CSharp\FirstTry\obj\Debug\net8.0\FirstTry.genruntimeconfig.cache
+C:\Users\Eberle\Desktop\CSharp\FirstTry\obj\Debug\net8.0\ref\FirstTry.dll
