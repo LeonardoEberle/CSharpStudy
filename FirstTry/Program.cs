@@ -1,4 +1,6 @@
 ﻿
+using System.Reflection.Metadata;
+
 Console.WriteLine("digite seu nome: ");
 
 string? nome = Console.ReadLine();
@@ -49,10 +51,23 @@ DateTime dataNasc = new DateTime(2000, 02, 22);
 Console.WriteLine(dataNasc);
 //caso nao seja iserido o horario padrao e meia noite
 Console.WriteLine(dataNasc.DayOfYear);
-Console.ReadLine();
 
 Nullable<int> a = null;
 int? b = null;
 
-// sao duas formas de se declarar uma variavel que pode ser nula
+
+// sao duas formas de se declarar uma variavel que pode ser nula 
+
+
+Console.WriteLine($"{nome} nasceu em {dataNasc}");
+
+//interpolacao /\
+
+Console.WriteLine("{0} nasceu em {1}", nome, dataNasc);
+
+//placeholder
+
+Console.WriteLine(nome + " nasceu em " + dataNasc);
+
+//concatenacao
 
